@@ -1,4 +1,4 @@
-<p align="right">
+<p align="right" style = "color= red">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/tatperei?1337Badge=off&UM6P=off" alt="tatperei's 42 stats" />
   </a>
